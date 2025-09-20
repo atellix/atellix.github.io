@@ -1,7 +1,5 @@
 {
   "name": "Aqua",
   "symbol": "AQUA",
-  "description": "AquaDEX AQUA",
-  "image": "https://atellix.github.io/aquadex/token/aqua-token.png",
-  "attributes": []
+  "uri": "https://atellix.github.io/aquadex/token/aqua.json"
 }
